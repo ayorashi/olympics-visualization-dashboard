@@ -25,6 +25,10 @@ This repo contains the processed dataset, Power BI dashboard files, and screensh
 
 yaml
 Copy code
+---
+## 📸 Dashboard Preview  
+![Olympics Dashboard](Screenshot%202025-09-05%20121616.png)  
+*Olympic Games Power BI Dashboard – Medal trends, athlete demographics, and country performance.*
 
 ---
 
